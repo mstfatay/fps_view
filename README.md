@@ -1,5 +1,5 @@
 # fps_view
-FpsView is a class to draw useful information of a drone on its fps camera view. sample_image.png shows how the created view looks.
+FpsView is a class to draw useful information of a drone on its fps camera view. sample_picture.png shows how the created view looks.
 
 Try this:
 >import fpsview
